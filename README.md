@@ -1,4 +1,4 @@
-# SpotiFive
+# SpotiFIVE
 
 ![SPOTIFIVECIRCLE](https://github.com/nkadric1/ProjekatOOAD/assets/122841109/8144447f-09cf-4341-a2c8-b4b0dbaf1c4e)
 
@@ -55,18 +55,23 @@ http://teamfive-001-site1.btempurl.com
 # A little sneak peak (as a registered user): 
 
 - Home screen
+  
 ![image](https://github.com/AHromic1/SpotiFIVE/assets/115954313/31e24a5a-1679-47d2-99d3-77299220ff11)
 
 - Song screen
+  
 ![image](https://github.com/AHromic1/SpotiFIVE/assets/115954313/04fd5880-a22a-4d3b-a331-e6a50acbba91)
 
 - Some of the comments (obtained using YouTube API and MSSQL database)
+  
 ![image](https://github.com/AHromic1/SpotiFIVE/assets/115954313/6d634acb-49a4-4471-bcab-110c3b6d5d91)
   
 - Song details screen
+  
 ![image](https://github.com/AHromic1/SpotiFIVE/assets/115954313/d7c9595b-7f33-494a-8379-767d8742c625)
 
 - Profile screen
+  
 ![image](https://github.com/AHromic1/SpotiFIVE/assets/115954313/24fbdcd0-fae7-446f-95ed-3051425246eb)
 
 - Artists screen
